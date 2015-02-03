@@ -1,5 +1,10 @@
 package com.marioga.poker;
 
+/**
+ * 
+ * This class generates a file with random poker hands
+ */
+
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
 import java.io.IOException;
